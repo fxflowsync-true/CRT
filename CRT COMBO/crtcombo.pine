@@ -1,0 +1,13 @@
+//@version=6
+// FULL SCRIPT – Corrected table with named Gap column
+//@version=6
+// ============================================================================
+//  CRT COMBO – HTF Candle Stacks + Killzones (EAT) & Liquidity + SMC Levels
+// ============================================================================
+//  A single overlay indicator that combines four tools. Each system is fully
+//  independent and is controlled by its own MASTER TOGGLE at the top of the
+//  settings (Settings window):
+//
+//    1) HTF Candle Stacks   (from "[AlscapeLabs] HTF Candle Stack")
+//       Draws stacked candles of up to 6 higher timeframes on the right side
+//       ...
